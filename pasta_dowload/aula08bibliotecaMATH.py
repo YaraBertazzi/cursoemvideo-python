@@ -1,0 +1,19 @@
+from math import sqrt
+num = int(input('Digite um número: '))
+raiz = sqrt(num)
+print('A raiz de {} e igual a {:.2f}'.format(num,float(raiz)))
+
+#from math import : importa a funçao especifica a ser utilizada
+#import math
+#num = int(input('Digite um número: '))
+#raiz = math.sqrt(num)
+#print('A raiz de {} é igual a {}'.format(num, math.ceil(raiz)))
+#importa toda a biblioteca math
+
+
+
+
+
+
+
+
